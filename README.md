@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashyc7&label=Profile%20views&color=0e75b6&style=flat" alt="yashyc7" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter , JavaScript , Python ,**
+- 🌱 I’m currently learning **Flutter , JavaScript , Python .**
 
 - 💬 Ask me about **C, C++, Python(Django), HTML, CSS, Image Processing, Data structures and Algorithms.**
 

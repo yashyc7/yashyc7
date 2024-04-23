@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5059484a60d48c295013efa0d19a510c9e59c444588aafc137829b886c3e0423/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36362f38332f33652f36363833336530376436666239656235643732346534376430633831343238352e6769663f7261773d74727565"
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashyc7&label=Profile%20views&color=0e75b6&style=flat" alt="yashyc7" /> </p>
 

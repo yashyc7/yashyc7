@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I do python while wearing glasses because i can't C.**
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashyc7&theme=tokyonight" alt="yashyc7" /></p>
+<p><img align="center" width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashyc7&theme=tokyonight" alt="yashyc7" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

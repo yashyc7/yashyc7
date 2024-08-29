@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I do python while wearing glasses because i can't C.**
 
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashyc7&theme=github_dark" alt="yashyc7" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashyc7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashyc7" height="30" width="40" /></a>
@@ -35,5 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashyc7&" alt="yashyc7" /></p>
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashyc7&theme=github_dark" alt="yashyc7" /></p>
 

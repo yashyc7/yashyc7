@@ -35,5 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashyc7&" alt="yashyc7" /></p>
 
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashyc7" alt="yashyc7" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashyc7&theme=github_dark" alt="yashyc7" /></p>
 

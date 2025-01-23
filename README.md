@@ -24,7 +24,7 @@
 ![snake gif](https://github.com/yashyc7/yashyc7/blob/output/github-snake-dark.svg)
  
 ---
-[![](https://visitcount.itsvg.in/api?id=yashyc7&icon=5&color=10)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=yashyc7)
 
  
   ## 💰 You can help me by Donating

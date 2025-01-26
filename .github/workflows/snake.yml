@@ -29,6 +29,7 @@ jobs:
         with:
           # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
+          # Define the output files and their configurations
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -43,5 +44,5 @@ jobs:
           github_token: ${{ secrets.GH_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          # Optionally, you can set a custom commit message
+          force_orphan: true
           commit_message: "Update snake animation [skip ci]"

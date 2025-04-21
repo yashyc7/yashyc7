@@ -28,8 +28,7 @@
 
 ---
 
-### 💡 **Current Projects**  
-- 🔨 Building **[Project Name]** – A Django-based SaaS tool  
+### 💡 **Current Projects**   
 - 🌱 Learning **Django Async & Performance Optimization**  
 - 🤝 Open to **collaborations** on Django/Python projects  
 

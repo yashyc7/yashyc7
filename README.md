@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yash Chauhan
+# 👋 Yash Chauhan
 
 🚀 **Django & Python Developer** | Passionate about building scalable web apps | Open-source enthusiast  
 

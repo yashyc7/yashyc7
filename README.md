@@ -19,13 +19,10 @@
 ### 📊 **GitHub Stats**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashyc7&label=Profile+Views&color=blueviolet&style=flat)  
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashyc7&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashyc7&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashyc7&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashyc7&layout=compact&theme=dark&hide_border=true" />
-  <!-- 3D Isometric Style -->
-<!-- More detailed with animations -->
+ 
 <a href="https://github.com/yashyc7">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=yashyc7&theme=react-dark&hide_border=true&area=true" 

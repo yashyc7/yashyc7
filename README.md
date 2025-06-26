@@ -12,7 +12,7 @@ I'm Yash, a dedicated developer with a passion for crafting **high-performance w
 
 ## 🛠 **Tech Stack**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis,html,css,js,bootstrap,tailwind,git,github,docker,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,redis,html,css,js,bootstrap,tailwind,git,github,docker,linux" alt="Tech Stack" />
 </p>
 
 ---

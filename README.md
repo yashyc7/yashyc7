@@ -69,6 +69,7 @@ If my work inspires you, keep my coding fuel tank full with a coffee!
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yashyc7.yashyc7&style=flat-square&color=purple" alt="Visitor Badge" />
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33448">
 </p>
 
 <p align="center">

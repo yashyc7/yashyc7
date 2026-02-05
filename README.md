@@ -69,7 +69,6 @@ If my work inspires you, keep my coding fuel tank full with a coffee!
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=yashyc7&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
-    <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33448">
 </p>
 
 <p align="center">
